@@ -39,4 +39,4 @@ This project demonstrates real-time object detection using your webcam, the YOLO
 
 Run the object detection script:
 ```sh
-python detect.py
+python webcam.py
