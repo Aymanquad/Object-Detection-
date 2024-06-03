@@ -19,7 +19,7 @@ This project demonstrates real-time object detection using your webcam, the YOLO
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/webcam-object-detection.git
+    git clone https://github.com/Aymanquad/Object-Detection-.git
     cd webcam-object-detection
     ```
 
